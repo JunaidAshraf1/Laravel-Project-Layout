@@ -24,7 +24,7 @@ All files under views/layout/includes folder and default layout file which inclu
 
 **Step 2:** Install Composer Dependencies - use command **'composer install'** 
 
-**Step 3:** Create a copy of your .env file - Make a copy of the .env.example file and create a .env file that we can start to fill
+**Step 3:** Create a copy of your .env file - Make a copy of the .env.example file and create a .env file
 
 **Step 4:** Generate an app encryption key - use command **'php artisan key:generate'**
 
