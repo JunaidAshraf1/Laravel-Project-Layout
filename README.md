@@ -22,11 +22,11 @@ All files under views/layout/includes folder and default layout file which inclu
 
 **Step 1:** Download or clone the codebase
 
-**Step 2:** Install Composer Dependencies - use command **'composer install'** 
+**Step 2 [Importand]:** Install Composer Dependencies - use command **'composer install'** 
 
 **Step 3 [Importand]:** Create a copy of your .env file - Make a copy of the .env.example file and create a .env file
 
-**Step 4:** Generate an app encryption key - use command **'php artisan key:generate'**
+**Step 4 [Importand]:** Generate an app encryption key - use command **'php artisan key:generate'**
 
 **Step 5 [Optional]:** Create an empty database for our application
 
