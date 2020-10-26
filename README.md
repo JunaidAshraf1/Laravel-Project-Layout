@@ -40,5 +40,5 @@ All files under views/layout/includes folder and default layout file which inclu
 ------------------------------------------------------------------------------------
 
 
-If there is any doubt please head over to https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
+If there is any doubt please head over to :  https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
