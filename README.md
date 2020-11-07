@@ -55,4 +55,7 @@ If you get the following issue at the time of composer install,
 Simply use,
 **'php -d memory_limit=-1 C:/ProgramData/ComposerSetup/bin/composer.phar install'**
 
+Please note in the command above "C:/ProgramData/ComposerSetup/bin/composer.phar" is the path to composer.phar which may be different in your case,
+please change it accordingly. I am using Windows Operating System you may be using Linux.
+
 
