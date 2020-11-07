@@ -36,6 +36,8 @@ All files under views/layout/includes folder and default layout file which inclu
 
 **Step 8 [Optional]:** Seed the database - use command **'php artisan db:seed'** 
 
+**Step 9 :** Finally Run your project - use command **'php artisan serve'**
+
 
 ------------------------------------------------------------------------------------
 
