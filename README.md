@@ -34,7 +34,7 @@ All files under views/layout/includes folder and default layout file which inclu
 
 **Step 7 [Optional]:** Migrate the database - use command **'php artisan migrate'** 
 
-**Step 8 [Optional]:** Seed the database - use command **'composer install'** 
+**Step 8 [Optional]:** Seed the database - use command **'php artisan db:seed'** 
 
 
 ------------------------------------------------------------------------------------
