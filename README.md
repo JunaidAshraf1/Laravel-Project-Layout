@@ -22,7 +22,7 @@ All files under views/layout/includes folder and default layout file which inclu
 
 **Step 1:** Download or clone the codebase
 
-**Step 2 [Importand]:** Install Composer Dependencies - use command **'composer install'** 
+**Step 2 [Importand]:** Install Composer Dependencies - use command **'composer install'**       *- [Read Note Below]*
 
 **Step 3 [Importand]:** Create a copy of your .env file - Make a copy of the .env.example file and create a .env file
 
@@ -41,6 +41,18 @@ All files under views/layout/includes folder and default layout file which inclu
 
 ------------------------------------------------------------------------------------
 
-
 If there is any doubt please head over to :  https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
+
+------------------------------------------------------------------------------------
+
+# Note
+
+If you get the following issue at the time of composer install, 
+
+**'PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 134217736 bytes) in phar://C:/ProgramData/ComposerSetup/bin/composer.phar/src/Composer/DependencyResolver/RuleSet.php on line 84'**
+
+
+Simply use,
+**'php -d memory_limit=-1 C:/ProgramData/ComposerSetup/bin/composer.phar install'**
+
 
